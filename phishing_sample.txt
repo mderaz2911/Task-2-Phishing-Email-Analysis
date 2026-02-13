@@ -1,0 +1,12 @@
+From: support@paypaI-security.com
+Subject: URGENT: Account Suspension
+
+Dear Customer,
+
+We detected suspicious activity in your account.
+Please verify immediately using the link below:
+
+http://paypal-security-verification.xyz/login
+
+Thank You,
+PayPal Security Team
